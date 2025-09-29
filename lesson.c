@@ -4,8 +4,6 @@
 
 int main(void)
 {
-    int a = atof("");
-    if(50 == "50") printf("yes");
-    else printf("no");
+    printf("%d", 6 == 6);
     return 0;
 }
